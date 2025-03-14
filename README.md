@@ -1,4 +1,3 @@
-
 ![Alt Text](https://media.licdn.com/dms/image/v2/D4D12AQFHPmRYaRtnwg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693052551743?e=1747267200&v=beta&t=Em3As-4Ixvn0UKJCkZTm4bUZzlktVM5I9WVwk6go00Y)
 
 ---
@@ -35,7 +34,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-### **🗄 Databases & Big Data**  
+### **🛠 Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
@@ -75,21 +74,6 @@
 _A predictive analytics model that optimizes hiring processes using ATS and machine learning._  
 
 ### 📊 Car Price Prediction Model  
-🔗 **[Repo Link](https://github.com/FaithMUTIS/Group-2-phase-5-project)**  
-_An ML model that predicts optimal used car prices based on mileage, age, fuel type, and region._  
-
-### 🎭 Sentiment Analysis & Product Recommendations  
-🔗 **[Repo Link](https://github.com/Fenty1738/Sentiment-Analysis-Recommendations)**  
-_A microservice-driven system combining collaborative filtering and sentiment analysis._  
-
-### 🛠 Time & Attendance Payroll Automation  
-🔗 **[Repo Link](https://github.com/Fenty1738/Payroll-Automation)**  
-_An HR data processing system that calculates payroll deductions based on attendance records._  
-
-### 📡 Contract Review System (Kenya)  
-🔗 **[Repo Link](https://github.com/Fenty1738/Contract-Review-Kenya)**  
-_A legal contract analysis system using NLP to identify key contract clauses._  
-
----
-
-📌 **Let's connect! Feel free to check out my work, contribute, and collaborate! 🚀**
+🔗 **[Repo Link](https://github.com/FaithMUTIS/Group-2-phase-
+::contentReference[oaicite:0]{index=0}
+ 

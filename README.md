@@ -70,12 +70,12 @@
 
 ## 🚀 **Featured Projects**  
 
-### 🏆 Recruitment Optimization with AI  
-🔗 **[Repo Link](https://github.com/Fenty1738/Recruitment-Optimization)**  
+### 🏆 HRIS Optimization with  
+🔗 **[Repo Link](https://github.com/Fenty1738/HR-Analytics-2)**  
 _A predictive analytics model that optimizes hiring processes using ATS and machine learning._  
 
 ### 📊 Car Price Prediction Model  
-🔗 **[Repo Link](https://github.com/Fenty1738/Car-Pricing-ML)**  
+🔗 **[Repo Link](https://github.com/FaithMUTIS/Group-2-phase-5-project)**  
 _An ML model that predicts optimal used car prices based on mileage, age, fuel type, and region._  
 
 ### 🎭 Sentiment Analysis & Product Recommendations  

@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Pamela Achieng! 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenty1738&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+![Alt Text](https://www.freepik.com/mockup-editor/search?prompt=Representation+of+user+experience+and+interface+design&user_upload=7cd50d51-4f42-4b02-b7ed-4e0346286573#from_element=resource_detail)
 
 ---
 

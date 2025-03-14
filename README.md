@@ -1,5 +1,5 @@
 
-![Alt Text](https://www.freepik.com/mockup-editor/search?prompt=Representation+of+user+experience+and+interface+design&user_upload=7cd50d51-4f42-4b02-b7ed-4e0346286573#from_element=resource_detail)
+![Alt Text](https://media.licdn.com/dms/image/v2/D4D12AQFHPmRYaRtnwg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693052551743?e=1747267200&v=beta&t=Em3As-4Ixvn0UKJCkZTm4bUZzlktVM5I9WVwk6go00Y)
 
 ---
 

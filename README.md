@@ -10,11 +10,39 @@
 - 🤖 Building recommendation systems & recruitment optimization models  
 
 ## 🛠 Tech Stack
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+
+I am passionate about **solving real-world problems with data** and building **AI-powered solutions**. My expertise spans **machine learning, predictive analytics, and HR tech**, with a strong foundation in **Python, SQL, TensorFlow, PyTorch, and cloud technologies**.  
+
+## 🛠 **Tech Stack & Skills**  
+
+### **👨‍💻 Programming Languages**  
+`Python` • `JavaScript` • `TypeScript` 
+
+### **🌍 Web Development**  
+`React` • `Vue.js` • `Node.js` • `Express.js` • `Django` • `Ruby on Rails`  
+
+### **📱 Mobile Development**  
+`Flutter` • `React Native` • `Swift` • `WeChat`  
+
+### **🗄 Databases**  
+`MySQL` • `PostgreSQL` • `MongoDB` • `Firebase` • `OracleDB` • `AmazonDB` • `PolarDB` • `Supabase`  
+
+### **☁️ Cloud & DevOps**  
+`AWS` • `Google Cloud` • `Azure` • `Docker` • `Kubernetes` • `Tencent Cloud`  
+
+### **📊 Machine Learning & Data Science**  
+`TensorFlow` • `PyTorch` • `Scikit-Learn` • `Pandas` • `NumPy` • `TinyML`  
+
+### **⚙️ Tools & Technologies**  
+`Git` • `GitHub` • `Visual Studio Code`
+
+### **🌎 Internet of Things (IoT)**  
+`Arduino`  
+
+---
+
+## 📈 **GitHub Stats**  
+![GitHub Stats](htt
 
 ## 📈 GitHub Stats
 <p align="center">
